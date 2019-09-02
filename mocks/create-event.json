@@ -1,0 +1,8 @@
+{
+  "body": "{\"name\":\"Bucs No Longer Suck Pot Luck\",\"location\":\"Raymond James Stadium\",\"address\":\"4201 N Dale Mabry Hwy\",\"city\":\"Tampa\"}, ,\"state\":\"FL\",\"zip\":\"33607\",\"description\":\"Celebrating Bucs Not Sucking and PotLuckYum, both Still In Process but Certain!\" }",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
