@@ -1,9 +1,9 @@
 {
-  "name": "serverless-nodejs-starter",
-  "version": "1.1.0",
+  "name": "potluckyum-api",
+  "version": "0.0.2",
   "scripts": {
     "test": "serverless-bundle test",
-		"logs:status": "sls logs -f status -r eu-east-1 -s default -t"
+    "logs:status": "sls logs -f status -r eu-east-1 -s default -t"
   },
   "author": "",
   "license": "MIT",
@@ -17,7 +17,7 @@
     "serverless-offline": "^5.3.3"
   },
   "dependencies": {
-    "serverless-api": "^0.0.0",
+    "potluckyum-shared": "^0.0.4",
     "uuid": "^3.3.2"
   }
 }
