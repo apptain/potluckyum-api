@@ -19,7 +19,7 @@ export async function main(event, context) {
       requests: data.requests,
       startTime: data.startTime,
       endTime: data.endTime,
-      invitees: data.invitees,
+      invitations: data.invitations,
       hosts: data.hosts,
       createdAt: Date.now()
     }
